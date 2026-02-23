@@ -1,0 +1,20 @@
+{
+  "name": "pf-test",
+  "version": "0.0.1",
+  "description": "Promptfoo Test",
+  "homepage": "https://github.com/hharnisc/pf-test#readme",
+  "bugs": {
+    "url": "https://github.com/hharnisc/pf-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hharnisc/pf-test.git"
+  },
+  "license": "MIT",
+  "author": "hharnisc@gmail.com",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
