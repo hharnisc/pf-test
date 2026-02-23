@@ -15,7 +15,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "env-cmd npx promptfoo eval"
+    "test": "env-cmd npx promptfoo eval",
+    "report": "env-cmd npx promptfoo view -y"
   },
   "dependencies": {
     "env-cmd": "^11.0.0",
